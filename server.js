@@ -22,7 +22,7 @@ app.use(passport.initialize()); // Initialize passport middleware
 
 // Routes
 const authRoutes = require('./routes/auth');
-app.use('/api/auth', authRoutes); // Authentication routes
+app.use('/api/auth', authRoutes); // Authentication route
 
 // Sync database
 sequelize.sync({ force: false }).then(() => {
