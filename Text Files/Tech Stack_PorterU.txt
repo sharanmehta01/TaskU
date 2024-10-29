@@ -1,0 +1,29 @@
+﻿Tech Stack Summary
+Layer
+	Technology
+	Frontend
+	React Native, Redux, React Navigation
+	Backend
+	Node.js, Express.js, Socket.IO
+	Database
+	PostgreSQL, Sequelize, (optional MongoDB/Firestore)
+	Payment
+	Stripe, PayPal
+	Hosting/Cloud
+	AWS (EC2, S3), Heroku, DigitalOcean
+	Notifications
+	Firebase Cloud Messaging
+	File Storage
+	AWS S3, Cloudinary
+	ID Verification
+	Onfido, Jumio
+	CI/CD
+	GitHub Actions, CircleCI
+	Testing
+	Jest, Mocha, Cypress
+	Security
+	bcrypt, express-rate-limit, SSL (Let’s Encrypt)
+	Monitoring
+	Sentry, Firebase Crashlytics
+	Analytics
+	Google Analytics for Firebase
